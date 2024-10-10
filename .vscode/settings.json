@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.json": "jsonc",
+        "*.wxs": "javascript",
+        "*.lua": "lua",
+        "lua.h": "c",
+        "lualib.h": "c",
+        "iostream": "cpp",
+        "lprefix.h": "c",
+        "cjson.h": "c",
+        "lauxlib.h": "c"
+    },
+    "Lua.diagnostics.globals": [
+        "import",
+        "CTestTable",
+        "cjson"
+    ]
+}

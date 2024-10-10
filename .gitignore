@@ -1,9 +1,5 @@
 .gitattributes
 
-*.so
-*.o
-*.a
-
 manual/manual.html
 
 testes/time.txt
